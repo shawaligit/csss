@@ -1,0 +1,36 @@
+
+Public IPv4 address
+ 13.229.92.148 | open address 
+Private IPv4 addresses
+ 172.31.21.192
+IPv6 address
+–
+Instance state
+ Pending
+Public IPv4 DNS
+ ec2-13-229-92-148.ap-southeast-1.compute.amazonaws.com | open address 
+Hostname type
+IP name: ip-172-31-21-192.ap-southeast-1.compute.internal
+Private IP DNS name (IPv4 only)
+ ip-172-31-21-192.ap-southeast-1.compute.internal
+Answer private resource DNS name
+IPv4 (A)
+Instance type
+t2.micro
+Elastic IP addresses
+–
+VPC ID
+ vpc-32456955 (def) 
+AWS Compute Optimizer finding
+Opt-in to AWS Compute Optimizer for recommendations. | Learn more 
+IAM Role
+–
+Subnet ID
+ subnet-b1c1d0d6 
+Details
+Security
+Networking
+Storage
+Status checks
+Monitoring
+Tags
